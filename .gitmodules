@@ -13,3 +13,9 @@
 [submodule "lib/SDL_mixer"]
 	path = lib/SDL_mixer
 	url = git@github.com:libsdl-org/SDL_mixer.git
+[submodule "lib/imgui"]
+	path = lib/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "lib/glew"]
+	path = lib/glew
+	url = git@github.com:nigels-com/glew.git
